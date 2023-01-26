@@ -9,4 +9,4 @@ if('.'in a):
 else:
     p=int(b)
 f=k*(p/100)+k
-print(f)
+print(int(f))
